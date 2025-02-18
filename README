@@ -1,12 +1,12 @@
-# Pac-Man en Java
+- Pac-Man en Java
 
-Este es un sencillo juego de Pac-Man desarrollado en Java, donde el jugador controla a Pac-Man usando las teclas WASD y juega en un nivel con puntuación.
+Este es un sencillo juego de Pac-Man desarrollado en Java, donde el jugador controla a Pac-Man usando las flechas del teclado y juega en un nivel con puntuación.
 
-## Requisitos
-- Java JDK 8 o superior
-- Un entorno de desarrollo compatible con Java (IntelliJ IDEA, Eclipse, NetBeans).
+- Requisitos
+* Java JDK 8 o superior
+* Un entorno de desarrollo compatible con Java (IntelliJ IDEA, Eclipse, NetBeans).
 
-## Instalación y Ejecución
+- Instalación y Ejecución
 
 1. Descarga o clona este repositorio.
 
